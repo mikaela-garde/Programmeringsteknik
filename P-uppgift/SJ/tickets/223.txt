@@ -1,0 +1,4 @@
+PLATSBILJETT
+Tågnummer: 3 | Stockholm - Göteborg | Datum: 2019-07-31 Tid: 12:15
+Vagn: 2 | Plats: 2
+Mittgångsplats

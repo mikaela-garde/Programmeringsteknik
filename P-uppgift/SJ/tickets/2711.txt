@@ -1,0 +1,4 @@
+PLATSBILJETT
+Tågnummer: 1 | Stockholm - Malmö | Datum: 2019-05-01 Tid: 13:50
+Vagn: 1 | Plats: 27
+Mittgångsplats
